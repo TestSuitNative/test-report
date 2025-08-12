@@ -1,0 +1,10 @@
+S.No,Test Case Name,Status
+1,Swipe through banners and verify CTAs,PASS
+2,Click Log In Button,PASS
+3,Tap on Email Address Field,PASS
+4,Enter Email Address,PASS
+5,Click Continue after Email,PASS
+6,Enter Password,PASS
+7,Click Login Button,PASS
+8,Swipe Home Hero Banners and Click Each Button,PASS
+9,Check and count home rails,FAIL
